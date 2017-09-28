@@ -1,0 +1,10 @@
+.content-wrapper,
+.right-side {
+  background-color: #ffffff;
+}
+
+.main-header .logo {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
