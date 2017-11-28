@@ -6,4 +6,4 @@ runGitHub('MapyPlk', 'bziarkowski')
 ```
 ## Web version
 
-[Link](https://bziarkowski.shinyapps.io/plkmapy2)
+[Link](https://bziarkowski.pl/apps/MapyPlk//)
